@@ -1,4 +1,4 @@
-# Ordersales-Analysis
+# GlobalMart Ordersales-Analysis
 Data cleaning using python &amp;  Data analysis using advanced SQL queries in SQL Server
 
 Dataset was first imported using Kaggle API. Some of the columns had 'Not Available' or "Unknown" values. These values were replaced with "Nan" value as part of Data cleaning.
